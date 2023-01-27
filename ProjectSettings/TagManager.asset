@@ -7,6 +7,7 @@ TagManager:
   - Coletavel
   - Coletavel vermelho
   - Coletavel verde
+  - chao
   layers:
   - Default
   - TransparentFX
