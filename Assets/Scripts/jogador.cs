@@ -156,7 +156,7 @@ public class jogador : MonoBehaviour
 
         //se o contador for maior ou igual ao número de coletáveis
         //então executa
-        if (contador>=65)
+        if (contador>=40)
         {
             running = false;
             finished = true;
